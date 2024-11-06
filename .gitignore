@@ -1,9 +1,9 @@
-.env
 
 
 # compiled output
 /dist
 /node_modules
+.env
 
 # Logs
 logs
