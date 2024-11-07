@@ -7,7 +7,7 @@ async function bootstrap() {
 
   const corsOptions: CorsOptions = {
     // origin: 'http://localhost:5173',
-    origin: 'https://672ca8299ff9de456d828fde--070707.netlify.app/',
+    origin: 'https://672ca8299ff9de456d828fde--070707.netlify.app',
     methods: 'GET,POST,PUT,HEAD,PATCH,DELETE',
     credentials: true,
   };
